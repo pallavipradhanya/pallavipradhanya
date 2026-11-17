@@ -13,7 +13,6 @@ Currently pursuing undergraduate studies with an interest in intelligent systems
 - Intelligent Systems and Automation
 - Software Development
 - Problem Solving and Emerging Technologies
-
 <!--
 **pallavipradhanya/pallavipradhanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
